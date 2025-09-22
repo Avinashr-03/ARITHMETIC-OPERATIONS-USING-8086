@@ -57,15 +57,27 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   79                     | 
+|  2001                   |   88                     |
+|  2002                   |   23                     |
+|  2003                   |   02                     |
+
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   9C                     | 
+|  2005                   |   8A                     |
+|  2006                   |   00                     |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![Manual Calculation Direct Addition](https://github.com/user-attachments/assets/f0ead0cf-d82c-4abe-9ff9-5f10fbaf6a52)
 
 ---
-
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+
+<img width="642" height="432" alt="Indirect Addition" src="https://github.com/user-attachments/assets/80fd9b33-bc63-4ac8-8117-008b9c7c8556" />
+
 
 ## 2. SUBTRACTION
 
@@ -108,16 +120,27 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   79                     | 
+|  2001                   |   88                     |
+|  2002                   |   23                     |
+|  2003                   |   02                     |
 
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   56                     | 
+|  2005                   |   86                     |
+|  2006                   |   00                     |
 #### Manual Calculations
 
-(Add your calculation here)
+![Indirect Substraction](https://github.com/user-attachments/assets/14c4971e-5ff7-4c52-a290-0758bdfcbc25)
+
 
 ---
-
-
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="642" height="432" alt="Indirect substraction" src="https://github.com/user-attachments/assets/ff315210-1db4-4b78-84ab-c4a89b1edbaf" />
+
 
 ## 3. MULTIPLICATION
 
@@ -157,15 +180,27 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   02                     | 
+|  2001                   |   00                     |
+|  2002                   |   03                     |
+|  2003                   |   00                     |
+
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   06                     | 
+|  2005                   |   00                     |
+|  2006                   |   00                     |
 
 #### Manual Calculations
 
-(Add your calculation here)
+![Manual Calculation Indirect Multiplication](https://github.com/user-attachments/assets/777aadf1-1d9a-420d-a77e-917c9d013cea)
 
 ---
-
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="642" height="432" alt="Indirect Multiplication" src="https://github.com/user-attachments/assets/701adf8c-d3b4-4e83-9c86-a38bf51c98b0" />
+
 
 ## 4. DIVISION
 
@@ -202,15 +237,26 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   69                     | 
+|  2001                   |   24                     |
+|  2002                   |   34                     |
+|  2003                   |   12                     |
 
+
+| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| ----------------------- | ------------------------ |
+|  2004                   |   02                     | 
+|  2005                   |   00                     |
+|  2006                   |   01                     |
 #### Manual Calculations
 
-(Add your calculation here)
+![Manual Calculation Indirect Division](https://github.com/user-attachments/assets/49e06176-89eb-4f87-bafc-7ae29ef21b82)
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="642" height="432" alt="Indirect division" src="https://github.com/user-attachments/assets/5e0f48fd-663e-48b9-802b-48ae1d3f799e" />
 
 
 ## RESULT
